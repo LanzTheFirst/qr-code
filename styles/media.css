@@ -1,4 +1,4 @@
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 500px) {
   .inner-container {
     width: 80%;
     background-color:  hsl(0, 0%, 100%);
